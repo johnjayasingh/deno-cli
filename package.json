@@ -1,0 +1,26 @@
+{
+  "name": "deno-cli",
+  "version": "1.0.0",
+  "description": "Deno CLI is an cli tool to install deno in node.js environment and create snippets",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/johnjayasingh/deno-cli.git"
+  },
+  "keywords": [
+    "deno",
+    "deno",
+    "cli",
+    "nodejs",
+    "deno"
+  ],
+  "author": "John Jayasingh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/johnjayasingh/deno-cli/issues"
+  },
+  "homepage": "https://github.com/johnjayasingh/deno-cli#readme"
+}
